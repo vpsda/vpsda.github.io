@@ -6,7 +6,7 @@
 
 ```markdown
 
-购买的VPS如果在国内不能用，再便宜也不要买！
+**购买的VPS如果在国内不能用，再便宜也不要买**！
 
 ```
 
@@ -44,7 +44,7 @@ HostWinds的VPS包含Linux和Windows系统，分为Managed托管型和Unmanaged�
 
 可以看到非托管型的Linux性价比最高了，每月费用甚至比Vultr还低，更不用说搬瓦工了，但是系统配置却比Vultr更高。机房选择有达拉斯，西雅图和阿姆斯特丹。我建议选择西雅图机房，国内访问速度还不错。目前官网正做活动，新用户优惠10%！
 
-####<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">获取HostWinds优惠链接>></a>
+#### <a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">获取HostWinds优惠链接>></a>
 
 ### 如何购买Hostwinds-VPS
 
