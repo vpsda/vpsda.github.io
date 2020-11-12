@@ -85,4 +85,6 @@ HostWinds的VPS包含Linux和Windows系统，分为Managed托管型和Unmanaged�
 
 购买后点此查看<a rel="noopener" href="https://www.wpdas.com/wordpress-lnmp-vps-website/#SSH%E8%BF%9E%E6%8E%A5VPS%E6%9C%8D%E5%8A%A1%E5%99%A8" target="_blank">如何正确设置和优化VPS，以及WordPress建站</a>
 
+本文页面：
 
+<a rel="noopener" href="https://vpsda.github.io/" target="_blank">好用便宜的VPS推荐</a>
