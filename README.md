@@ -1,9 +1,8 @@
 # 2021便宜好用的VPS推荐，美国香港VPS避坑攻略
 
-在论坛、QQ群或网站留言里，经常会有人问有哪些便宜的VPS。因为不少人买国外VPS都是用来搭梯子<a rel="noopener" href="https://github.com/vpnforchina/vpnforchina.github.io" target="_blank">科学上网翻墙</a>、跑跑任务、建个人网站，一般对于VPS的性能要求不算太高，能满足基本需求即可。但需要注意的是，买美国和香港VPS的时候有一些坑需要避开，不然即浪费金钱、精力，又费时间，得不偿失。
+在论坛、QQ群或网站留言里，经常会有人问有哪些便宜的VPS。因为不少人买国外VPS都是用来搭梯子<a rel="noopener nofollow" href="https://github.com/search?q=VPN+%E7%BF%BB%E5%A2%99+%E6%8E%A8%E8%8D%90" target="_blank">科学上网</a>翻墙、跑跑任务、建个人网站，一般对于VPS的性能要求不算太高，能满足基本需求即可。但需要注意的是，买美国和香港VPS的时候有一些坑需要避开，不然即浪费金钱、精力，又费时间，得不偿失。
 
 ## 不推荐的VPS
-
 
 ```markdown
 购买的VPS如果在国内不能用，再便宜也不要买！
@@ -83,7 +82,7 @@ HostWinds的VPS包含Linux和Windows系统，分为Managed托管型和Unmanaged�
 
 [![HostWinds换IP](https://www.safewebcn.com/img/Hostwinds-Fix-ISP-Block.png)](#ip更换的方法)
 
-购买后点此查看<a rel="noopener" href="https://www.wpdas.com/wordpress-lnmp-vps-website/#SSH%E8%BF%9E%E6%8E%A5VPS%E6%9C%8D%E5%8A%A1%E5%99%A8" target="_blank">如何正确设置和优化VPS，以及WordPress建站</a>
+购买后点此查看<a rel="noopener nofollow" href="https://www.wpdas.com/wordpress-lnmp-vps-website/#SSH%E8%BF%9E%E6%8E%A5VPS%E6%9C%8D%E5%8A%A1%E5%99%A8" target="_blank">如何正确设置和优化VPS，以及WordPress建站</a>
 
 本文页面：
 
