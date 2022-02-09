@@ -1,4 +1,4 @@
-# 2021便宜好用的VPS推荐，美国香港VPS避坑攻略
+# 2022便宜好用的VPS推荐，美国香港VPS避坑攻略
 
 在论坛、QQ群或网站留言里，经常会有人问有哪些便宜的VPS。因为不少人买国外VPS都是用来搭梯子<a rel="noopener nofollow" href="https://github.com/search?q=VPN+%E7%BF%BB%E5%A2%99+%E6%8E%A8%E8%8D%90" target="_blank">科学上网</a>翻墙、跑跑任务、建个人网站，一般对于VPS的性能要求不算太高，能满足基本需求即可。但需要注意的是，买美国和香港VPS的时候有一些坑需要避开，不然即浪费金钱、精力，又费时间，得不偿失。
 
@@ -31,14 +31,14 @@ Hostwinds算是主机界的后起之秀，成立于2010年。目前提供了虚�
 
 Hostwinds在国内名气不算大，还没有像搬瓦工、Vultr那样国人扎堆，我自己建站实测速度比搬瓦工和VULTR都好不少。月付$4.99，支持支付宝，1Gb内存，1Tb流量，自带 SNAPSHOT 快照备份，可以免费更换IP。
 
-HostWinds的VPS包含Linux和Windows系统，分为Managed托管型和Unmanaged非托管型。VPS产品包含托管型Linux VPS和非托管型的Linux VPS，托管Windows VPS 和非托管Windows VPS。
+HostWinds的VPS包含Linux和Windows系统，分为Managed托管型和Unmanaged非托管型。VPS产品包含托管型Linux VPS和非托管型的Linux VPS，托管Windows VPS 和非托管Windows VPS。如果已经会Linux或是想更加熟悉Linux系统和掌握一些Linux的基础操作，一般我是建议选择Unmanaged Linux VPS，建网站或是干其他别的都够用了，Linux的稳定性也足够好；Windows选择的人相对少一些，而且价格偏高，如果不是对Windows有特殊需求一般不会选择。
 
 - Managed托管型的Hostwinds官方技术人员为服务器提供全套运维服务，省事省力，但是价格稍贵一些，有点不划算。
 - Unmanaged非托管型就是买个裸机VPS，随意DIY，包括系统在内的所有程序自己搭建（按流程很简单），在学会一些Linux的知识的同时还能省点钱，性价比较高。
 
-目前Hostwinds托管型Linux的价格最低是5.17美元/月， 非托管型的Linux价格最低是4.49美元/月，两者都是1CPU,1Gb内存，30GB的SSD硬盘空间，1TB的数据流量。
+目前Hostwinds托管型Linux的价格最低是8.24美元/月， 非托管型的Linux价格最低是4.99美元/月，两者都是1CPU,1Gb内存，30GB的SSD硬盘空间，每月1TB的数据流量。
 
-托管型Windows的价格最低是7.79美元/月，非托管型的Windows价格最低是9.89美元/月，两者都是1CPU, 1GB RAM， 30GB的SSD硬盘空间，1TB的数据流量。
+托管型Windows的价格最低是12.79美元/月，非托管型的Windows价格最低是9.89美元/月，两者都是1CPU, 1GB RAM， 30GB的SSD硬盘空间，每月1TB的数据流量。
 
 可以看到非托管型的Linux性价比最高了，每月费用甚至比Vultr还低，更不用说搬瓦工了，但是系统配置却比Vultr更高。机房选择有达拉斯，西雅图和阿姆斯特丹。我建议选择西雅图机房，国内访问速度还不错。目前官网正做活动，新用户优惠10%！
 
@@ -82,7 +82,7 @@ HostWinds的VPS包含Linux和Windows系统，分为Managed托管型和Unmanaged�
 
 [![HostWinds换IP](https://www.safewebcn.com/img/Hostwinds-Fix-ISP-Block.png)](#ip更换的方法)
 
-购买后点此查看<a rel="noopener nofollow" href="https://www.wpdas.com/wordpress-lnmp-vps-website/#SSH%E8%BF%9E%E6%8E%A5VPS%E6%9C%8D%E5%8A%A1%E5%99%A8" target="_blank">如何正确设置和优化VPS，以及WordPress建站</a>
+下一次，我们说说如何正确设置和优化VPS，以及WordPress建站。
 
 本文页面：
 
