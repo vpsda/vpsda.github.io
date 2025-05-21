@@ -25,7 +25,7 @@
 
 ## 便宜的高性能VPS推荐 - <a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds</a>
 
-[![HostWinds](https://www.safewebcn.com/img/hostwinds-logo-min.png)](#便宜的高性能vps推荐---hostwinds)
+[![HostWinds](https://www.linkv.org/img/hostwinds-logo-min.png)](#便宜的高性能vps推荐---hostwinds)
 
 Hostwinds算是主机界的后起之秀，成立于2010年。目前提供了虚拟主机，云主机，VPS, 独立服务器等，它的服务器数据中心也只有两个，达拉斯和西雅图，国内用户推荐选择美国西海岸的西雅图机房，速度快，延迟较低。Hostwinds的口碑一直不错，所有的主机都会采取自动的全球CND加速，服务器采用的是SSD硬盘（相对于传统的机械硬盘传送速度会快很多），免费SSL证书，免费域名，免费独立ip等等，重点是价格还比较便宜！
 
@@ -48,31 +48,31 @@ HostWinds的VPS包含Linux和Windows系统，分为Managed托管型和Unmanaged�
 
 下面我以Unmanaged非托管型VPS为例进行说明，首先<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">打开Hostwinds官网</a>，选择Unmanaged， 1GB – $4.99这款VPS。
 
-[![如何购买HostWinds](https://www.safewebcn.com/img/Hostwinds-Unmanaged-vps.png)](#如何购买hostwinds-vps)
+[![如何购买HostWinds](https://www.linkv.org/img/Hostwinds-Unmanaged-vps.png)](#如何购买hostwinds-vps)
 
 点击“Order”注册账户。如果是用PayPal付款，邮箱地址最好和PayPal账户邮箱保持一致，使用支付宝和银行卡付款使用自己的常用邮箱就行：
 
-[![如何购买HostWinds](https://www.safewebcn.com/img/Hostwinds-email-register.png)](#如何购买hostwinds-vps)
+[![如何购买HostWinds](https://www.linkv.org/img/Hostwinds-email-register.png)](#如何购买hostwinds-vps)
 
 接下来需要填写一些必要的注册信息。请尽量填写真实信息，特别是IP地址要和本机所在地相同，这是网站防止信用卡盗刷风险。比如你在广州，IP显示地址也是广州，就不能填地址在上海。Hostwinds官网在中国是可以正常访问的，所以，为避免不必要的麻烦，如果你在使用梯子或者代理服务器，在购买前请确保关闭梯子，尽量使用本地网络访问，否则订单的审核可能会出现问题：
 
-[![购买HostWinds](https://www.safewebcn.com/img/Hostwinds-infomation.png)](#如何购买hostwinds-vps)
+[![购买HostWinds](https://www.linkv.org/img/Hostwinds-infomation.png)](#如何购买hostwinds-vps)
 
 然后，选择并确认信息。确认是Unmanaged非托管型，付款周期（年付/季付/月付），机房（西雅图/SEATTLE），系统为Debian 9（占用内存小，适合建站，也可选CentOS或Ubuntu），确认主机为CPU:1 Core，内存1GB，存储30GB。其他信息默认不需改动：
 
-[![购买HostWinds](https://www.safewebcn.com/img/Hostwinds-unmanaged-vps-order.png)](#如何购买hostwinds-vps)
+[![购买HostWinds](https://www.linkv.org/img/Hostwinds-unmanaged-vps-order.png)](#如何购买hostwinds-vps)
 
 这里有可选功能：云备份和VPS监测提醒，可以根据自己的需求选择：
 
-[![HostWinds云备份](https://www.safewebcn.com/img/Hostwinds-cloud-backup.png)](#如何购买hostwinds-vps)
+[![HostWinds云备份](https://www.linkv.org/img/Hostwinds-cloud-backup.png)](#如何购买hostwinds-vps)
 
 支付方式有信用卡（Visa、Master Card）、Paypal和支付宝，支付方式建议优先选择Paypal，如果没有Paypal可以选择信用卡或支付宝：
 
-[![HostWinds支付方式](https://www.safewebcn.com/img/Hostwinds-payment-method.png)](#如何购买hostwinds-vps)
+[![HostWinds支付方式](https://www.linkv.org/img/Hostwinds-payment-method.png)](#如何购买hostwinds-vps)
 
 最后，勾选同意服务条款、隐私政策，并确认订单支付：
 
-[![HostWinds隐私政策](https://www.safewebcn.com/img/Hostwinds-tos.png)](#如何购买hostwinds-vps)
+[![HostWinds隐私政策](https://www.linkv.org/img/Hostwinds-tos.png)](#如何购买hostwinds-vps)
 
 完成订单付款后，等待几分钟，邮箱会收到VPS成功开通的邮件，邮件有VPS相关信息，比如VPS服务器的IP地址、root密码和SSH端口等。建议复制保存下来备用，免得以后要登录VPS时找得麻烦。
 
@@ -80,7 +80,7 @@ HostWinds的VPS包含Linux和Windows系统，分为Managed托管型和Unmanaged�
 
 进入VPS管理后台，点击Manage IP’s ，然后点击Fix ISP Block按钮，在弹出的窗口点击确认Confirm。
 
-[![HostWinds换IP](https://www.safewebcn.com/img/Hostwinds-Fix-ISP-Block.png)](#ip更换的方法)
+[![HostWinds换IP](https://www.linkv.org/img/Hostwinds-Fix-ISP-Block.png)](#ip更换的方法)
 
 下一次，我们说说如何正确设置和优化VPS，以及WordPress建站。
 
