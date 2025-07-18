@@ -21,7 +21,11 @@
 
 如果是建站，网站访客不多的话可以考虑香港VPS，但考虑到后续的访客数量暴增，带宽流量很大的话美国VPS不香吗？在国内打开站点慢是慢点，但不会和香港vps差距很大，国外用户访问就更快了。简单来说，香港VPS适合要求在大陆访问速度快、不用备案、网站访客量不大的用户。
 
-当然，有钱就能任性，钱管够香港vps还是很香的，钱不够的同学请参考上面我的建议。<a rel="noopener" href="https://linkc.org/bwhk/" target="_blank">搬瓦工的香港VPS</a>，除了价格贵没什么大的缺点，预算充足可以考虑。如果是建网站，优先考虑美国VPS,便宜量大，国外访问速度快。
+当然，有钱就能任性，钱管够香港vps还是很香的，钱不够的同学请参考上面我的建议。如果是建网站，优先考虑美国VPS,便宜量大，国外访问速度快。使用目的比较多样的可以选择<a rel="noopener" href="https://linkc.org/bwh/" target="_blank">BandWagon Host搬瓦工的CN2 GIA线路的VPS</a>，Basic VPS的Los Angeles USCA_2节点有中国大陆网络的优化线路，价格便宜而且量大，网络速度上兼顾了国外和国内的情况。
+
+[![HostWinds](https://www.linkc.org/img/bandwagon-vps-order-page.png)](#)
+
+#### <a rel="nofollow noopener" href="https://linkc.org/bwh/" target="_blank">获取BandWagon Host优惠链接>></a>
 
 ## 便宜的高性能VPS推荐 - <a rel="nofollow noopener" href="https://linkc.org/hostwinds/" target="_blank">HostWinds</a>
 
