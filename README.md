@@ -8,7 +8,7 @@
 购买的VPS如果在国内不能用，再便宜也不要买！
 ```
 
-目前有几家国人用户较多的VPS商家IP被封比较严重(如果访客用户是非内地，可忽略IP影响)，比如BandWagon搬瓦工、Vultr、DO等，由于前几年国人购买这几款VPS搭梯子翻墙的人太多，IP大面积被封（国内网络无法访问），商家的IP资源再多也扛不住，我今年在Vultr开了几次都没有一个可用的IP，大家就别浪费时间了。BandWagon搬瓦工目前已经不便宜了，最低年付49.9刀，而且要看运气，运气好还能搞到能用的IP，但如果购买的VPS的IP是被封的，换一次IP要8.79刀，而且不能确保是可用IP，感觉很鸡肋。
+目前有几家国人用户较多的VPS商家IP被封比较严重(如果访客用户是非内地，可忽略IP影响)，比如Vultr、DO等，由于前几年国人购买这几款VPS搭梯子翻墙的人太多，IP大面积被封（国内网络无法访问），商家的IP资源再多也扛不住，我今年在Vultr开了几次都没有一个可用的IP，大家就别浪费时间了。
 
 ## 香港VPS特点
 
@@ -23,6 +23,8 @@
 
 当然，有钱就能任性，钱管够香港vps还是很香的，钱不够的同学请参考上面我的建议。如果是建网站，优先考虑美国VPS,便宜量大，国外访问速度快。使用目的比较多样的可以选择<a rel="noopener" href="https://linkc.org/bwh/" target="_blank">BandWagon Host搬瓦工的CN2 GIA线路的VPS</a>，Basic VPS的Los Angeles USCA_2节点有中国大陆网络的优化线路，价格便宜而且量大，网络速度上兼顾了国外和国内的情况。
 
+BandWagon搬瓦工目前最低年付49.9刀，但要注意IP在国内能不能用，如果不小心中奖了，购买的VPS的IP在国内是被封的，要进行换IP。
+
 [![HostWinds](https://www.linkc.org/img/bandwagon-vps-order-page.png)](#)
 
 #### <a rel="nofollow noopener" href="https://linkc.org/bwh/" target="_blank">获取BandWagon Host优惠链接>></a>
@@ -33,7 +35,7 @@
 
 Hostwinds算是主机界的后起之秀，成立于2010年。目前提供了虚拟主机，云主机，VPS, 独立服务器等，它的服务器数据中心也只有两个，达拉斯和西雅图，国内用户推荐选择美国西海岸的西雅图机房，速度快，延迟较低。Hostwinds的口碑一直不错，所有的主机都会采取自动的全球CND加速，服务器采用的是SSD硬盘（相对于传统的机械硬盘传送速度会快很多），免费SSL证书，免费域名，免费独立ip等等，重点是价格还比较便宜！
 
-Hostwinds在国内名气不算大，还没有像搬瓦工、Vultr那样国人扎堆，我自己建站实测速度比搬瓦工和VULTR都好不少。月付$4.99，支持支付宝，1Gb内存，1Tb流量，自带 SNAPSHOT 快照备份，可以免费更换IP。
+Hostwinds在国内名气不算大，还没有像搬瓦工、Vultr那样国人扎堆，我自己建站实测速度比Digital Ocean和VULTR都好不少。月付$4.99，支持支付宝，1Gb内存，1Tb流量，自带 SNAPSHOT 快照备份，可以免费更换IP。
 
 HostWinds的VPS包含Linux和Windows系统，分为Managed托管型和Unmanaged非托管型。VPS产品包含托管型Linux VPS和非托管型的Linux VPS，托管Windows VPS 和非托管Windows VPS。如果已经会Linux或是想更加熟悉Linux系统和掌握一些Linux的基础操作，一般我是建议选择Unmanaged Linux VPS，建网站或是干其他别的都够用了，Linux的稳定性也足够好；Windows选择的人相对少一些，而且价格偏高，如果不是对Windows有特殊需求一般不会选择。
 
